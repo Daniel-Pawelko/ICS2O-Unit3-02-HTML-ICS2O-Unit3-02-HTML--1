@@ -1,0 +1,30 @@
+#headline {
+  position: sticky;
+  top: 0;
+  background-color: green;
+  border: 2px solid #4CAF50;
+}
+
+#columns{
+  columns: 100px 3;
+}
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+#positionPhoto{
+  margin-top: 2000px;
+  margin-left: 300px;
+}
